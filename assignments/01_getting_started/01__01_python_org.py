@@ -1,0 +1,4 @@
+# Extreme good here there are many tools that I can learn from beacuse the website is very interactive.
+#In addition, the website is very easy to navigate and has a lot of information about Python. I can learn about the different data types, control structures, and functions in Python. The website also has a lot of examples and exercises that I can use to practice my skills. Overall, I think this website is a great resource for learning Python and I will definitely be using it in the future.
+#the website is a friendly community where people can come together and figure out different things
+#good resource to come to to get information about python
