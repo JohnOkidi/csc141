@@ -2,4 +2,6 @@
 # chapter 2
 artist= "I love Gunna"
 print(artist)
-    
+
+
+#     yes  yes  yes
